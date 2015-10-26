@@ -1,6 +1,16 @@
 ## 欢迎大家使用 CodeIgniter HMVC 扩展！
 
 
+很显然，Codeigniter并不支持HMVC,何为HMVC,就是它把MVC根据模块又细化成多个MVC，看如下结构图你就明白了，原来Codeigniter的MVC结构图是：
+![](http://www.phpddt.com/usr/uploads/2013/12/1732703494.png)
+让Codeigniter支持HMVC架构
+实现HMVC后结构图为：
+![](http://www.phpddt.com/usr/uploads/2013/12/3639030302.png)
+让Codeigniter支持HMVC架构
+HEX为CodeIgniter做了HMVC扩展（https://github.com/CodeIgniter/HMVC）
+
+
+
 如果您还不了解什么是 HMVC，请先移步维基百科查看：
 
 [http://zh.wikipedia.org/wiki/HMVC](http://zh.wikipedia.org/wiki/HMVC)
